@@ -1,7 +1,17 @@
 # Bash
 
-`cd file_name`
+1. Create or edit shell script
+```console
+touch program.sh
+```
+```console
+gedit program.sh
+```
+```console
+nano program.sh
+```
 
-`touch program.sh` or `gedit program.sh`
-
-`bash program.sh`
+2. Run the shell script
+```console
+bash program.sh
+```
